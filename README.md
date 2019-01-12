@@ -1,4 +1,4 @@
-# reading-textfile
+# Reading-Textfile
 
 ## File Details and Output generated:-
 ### 1. readtextfile.js file:-
@@ -9,7 +9,7 @@ Steps of Execution:-
 2. Open any browser and enter the following URL
                     http://localhost:5050
 
- 
+ ![readingtextusingjavascript](https://user-images.githubusercontent.com/42746311/51076892-b48c3780-16c4-11e9-8e23-c2ac9f029aea.png)
 
 ###  2.	Generating Report: - 
 I have written the python file that generates the report.
