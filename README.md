@@ -14,3 +14,11 @@ Steps of Execution:-
 ###  2.	Generating Report: - 
 I have written the python file that generates the report.
 <br> Output:-</br>
+
+
+After generating the data, I have created HTML files with Python scripts, and use Python to automatically open an HTML file (“report.html”) in browser using webbrowser.
+I have used plotly library to show graph in browser.
+
+
+
+![customerdataUsingplotly](https://user-images.githubusercontent.com/42746311/51076830-2617b600-16c4-11e9-973c-5817c2ff5873.png)
