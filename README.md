@@ -15,6 +15,7 @@ Steps of Execution:-
 I have written the python file that generates the report.
 <br> Output:-</br>
 
+![report](https://user-images.githubusercontent.com/42746311/51076849-6a0abb00-16c4-11e9-8729-efd21f1b71b9.png)
 
 After generating the data, I have created HTML files with Python scripts, and use Python to automatically open an HTML file (“report.html”) in browser using webbrowser.
 I have used plotly library to show graph in browser.
