@@ -5,9 +5,10 @@
 In this file, I have created a Node.js to read text file and return the response in JSON. Code will then read the request URL and based on it, the response will be sent back. 
 Steps of Execution:-
 1. on the command prompt:- 
-                       Node readtextfile.js
+    <br> Node readtextfile.js </br>
+    
 2. Open any browser and enter the following URL
-                    http://localhost:5050
+                     <br> http://localhost:5050 </br> 
 
  ![readingtextusingjavascript](https://user-images.githubusercontent.com/42746311/51076892-b48c3780-16c4-11e9-8e23-c2ac9f029aea.png)
 
