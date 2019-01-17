@@ -1,5 +1,24 @@
 # Reading-Textfile
+## Problem Statement
+Write a program to parse this data and generate a report with the following information:
 
+1. How many orders did the site receive? </br>
+2. What was the total amount of the orders? </br>
+3. List the names of the customers who ordered once and did not order again. </br>
+4. Get a distribution of customers who ordered exactly once, exactly twice and so on up to 4 orders and group the rest as 5 orders and above. </br>
+
+Orders | Count of customers
+-------|-------------------
+1      |
+2      |
+3      |
+4      |
+5+     |
+
+5. Optional: Generate this report as a simple HTML page with a table. </br>
+6. Optional: Add a bar graph for the information in question 4 in your HTML report. </br>
+
+## Solution 
 ## File Details and Output generated:-
 ### 1. readtextfile.js file:-
 In this file, I have created a Node.js to read text file and return the response in JSON. Code will then read the request URL and based on it, the response will be sent back. 
